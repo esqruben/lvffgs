@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>plantilla</title>
+    <style type="text/css">
+#principal {
+  width: 1364px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#menu {
+  list-style-type: none;
+}
+
+#banner {
+  background-image: url("../Imagenes/banner2.jpg");
+  width: 1364px;
+  height: 264px;
+}
+
+#contenido {
+  
+}
+
+#amenu {
+  list-style-type: none;
+}
+
+#emenu {
+  list-style-type: none;
+  float: left;
+  margin-right: 25px;
+}
+
+</style><link type="text/css" rel="stylesheet" href="estilos.css">
+  </head>
+  <body>
+    <div id="principal"><br>
+      <br>
+      <div id="contenido">
+        <h1 style="text-align: center;"><br>
+        </h1>
+        <h1 style="text-align: center;"><br>
+        </h1>
+        <h1 style="text-align: center;">Laboratorio&nbsp; Virtual&nbsp; de&nbsp;
+          Física</h1>
+        <table style="width: 100%;" id="tabla" border="0">
+          <tbody>
+            <tr>
+              <td style="width: 187.997px;"><a href="index.html"><img src="../Botones/Inicio1.png"
+                    alt="" title="boton1" id="boton1"></a><br>
+              </td>
+              <td style="width: 191.92px;"><a href="Mecanica.html"><img src="../Botones/Meca1.png"
+                    alt="" title="boton2" id="boton2"></a><br>
+              </td>
+              <td style="width: 188.017px;"><a href="Electro.html"><img src="../Botones/Eletro1.png"
+                    alt="" title="boton3" id="boton3"></a><br>
+              </td>
+              <td style="width: 198.017px;"><a href="Hidraulica.html"><img src="../Botones/Hidra1.png"
+                    alt="" title="boton3" id="boton4"></a><br>
+              </td>
+              <td style="width: 192.017px;"><a href="Calor.html"><img src="../Botones/Calor1.png"
+                    alt="" title="calor" id="boton5"></a><br>
+              </td>
+              <td style="width: 193.017px;"><a href="Trabajo.html"><img src="../Botones/Trabajo1.png"
+                    alt="" title="trabajo" id="boton6"></a><br>
+              </td>
+              <td style="width: 167.017px;"><a href="Noticias.html"><img src="../Botones/Noticias1.png"
+                    alt="" title="noticias" id="boton7"></a><br>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <h3>Hidráulica</h3>
+        <p>La rama de la física que estudia los fl uidos es la hidráulica; la
+          cual se subdivide en otras dos: las hidroestática y la hidrodinámica.
+        </p>
+        <div style="text-align: center;"><img src="../Imagenes/presion.png" alt="objeto flotando"
+            title="presion" style="width: 300px;"></div>
+        <h3>Fluido</h3>
+        <p>El término fluido se utiliza para designar a las sustancias que
+          tienen la capacidad de fluir o escurrir y que tienen la característica
+          común de adquirir la forma del recipiente que los contiene; es decir,
+          toda sustancia que está en estado líquido o gaseoso es un fluido.</p>
+        <p>Los principios de los fluidos en movimiento se utilizan para
+          minimizar la resistencia aerodinámica de un
+          avión o de un automóvil; las alas de un avión se diseñan
+          de tal forma que la caída correspondiente de presión superior,
+          comparada con la inferior, crea una fuerza neta
+          hacia arriba llamada sustentación, que es la que hace posible el vuelo
+          horizontal del avión.</p>
+        <p>Para describir las propiedades y principios de los
+          fl uidos, así como las cantidades físicas derivadas, es importante
+          defi nir y analizar los conceptos de densidad,
+          peso específi co y densidad relativa.</p>
+        <h3>Densidad</h3>
+        <p>La densidad es una de las características de las sustancias y se defi
+          ne como la masa por unidad de volumen. Por
+          ejemplo, el oro tiene mayor densidad que la plata, pues
+          hay más masa en cierto volumen de oro que en el mismo volumen de
+          plata.</p>
+        <div style="text-align: center;"><img src="../Imagenes/Vaso.gif" alt=""
+            title="vaso"></div>
+        <h3></h3>
+      </div>
+    </div>
+  </body>
+</html>

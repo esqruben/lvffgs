@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>plantilla</title>
+    <style type="text/css">
+#principal {
+  background-color: #000066;
+  width: 1364px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#menu {
+  background-color: #3366ff;
+  list-style-type: none;
+}
+
+#banner {
+  background-color: #33ccff;
+  background-image: url("../Imagenes/banner2.jpg");
+  width: 1364px;
+  height: 264px;
+}
+
+#contenido {
+  background-color: #ccccff;
+}
+
+#amenu {
+  list-style-type: none;
+}
+
+#emenu {
+  list-style-type: none;
+  float: left;
+  margin-right: 25px;
+}
+
+</style><link type="text/css" rel="stylesheet" href="estilos.css">
+  </head>
+  <body>
+    <div id="principal">Principal
+      <div id="menu">
+        <ul id="emenu">
+          <a href="index.html"> </a>
+          <li id="emenu"><a href="index.html">Inicio</a></li>
+          <li id="emenu"><a href="Mecanica.html">Mecánica</a></li>
+          <li id="emenu"><a href="Electro.html">Electromágnetismo</a></li>
+          <li id="emenu"><a href="Hidraulica.html">Hidráulica</a></li>
+          <li id="emenu"><a href="Calor.html">Calor y&nbsp; Temperatura</a></li>
+          <li id="emenu"><a href="Trabajo.html">Trabajo&nbsp; y&nbsp; Energía</a></li>
+          <li id="emenu"><a href="Noticias.html">Noticias</a></li>
+        </ul>
+      </div>
+      <div id="banner">Banner</div>
+      <div id="contenido">Contenido</div>
+    </div>
+  </body>
+</html>

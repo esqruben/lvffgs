@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>plantilla</title>
+    <style type="text/css">
+#principal {
+  width: 1364px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#menu {
+  list-style-type: none;
+}
+
+#banner {
+  background-image: url("../Imagenes/banner2.jpg");
+  width: 1364px;
+  height: 264px;
+}
+
+#contenido {
+  
+}
+
+#amenu {
+  list-style-type: none;
+}
+
+#emenu {
+  list-style-type: none;
+  float: left;
+  margin-right: 25px;
+}
+
+</style><link type="text/css" rel="stylesheet" href="estilos.css">
+  </head>
+  <body>
+    <div id="principal"><br>
+      <br>
+      <div id="contenido">
+        <h1 style="text-align: center;"><br>
+        </h1>
+        <h1 style="text-align: center;"><br>
+        </h1>
+        <h1 style="text-align: center;">Laboratorio&nbsp; Virtual&nbsp; de&nbsp;
+          Física</h1>
+        <table style="width: 100%;" id="tabla" border="0">
+          <tbody>
+            <tr>
+              <td style="width: 187.997px;"><a href="index.html"><img src="../Botones/Inicio1.png"
+                    alt="" title="boton1" id="boton1"></a><br>
+              </td>
+              <td style="width: 191.92px;"><a href="Mecanica.html"><img src="../Botones/Meca1.png"
+                    alt="" title="boton2" id="boton2"></a><br>
+              </td>
+              <td style="width: 188.017px;"><a href="Electro.html"><img src="../Botones/Eletro1.png"
+                    alt="" title="boton3" id="boton3"></a><br>
+              </td>
+              <td style="width: 198.017px;"><a href="Hidraulica.html"><img src="../Botones/Hidra1.png"
+                    alt="" title="boton3" id="boton4"></a><br>
+              </td>
+              <td style="width: 192.017px;"><a href="Calor.html"><img src="../Botones/Calor1.png"
+                    alt="" title="calor" id="boton5"></a><br>
+              </td>
+              <td style="width: 193.017px;"><a href="Trabajo.html"><img src="../Botones/Trabajo1.png"
+                    alt="" title="trabajo" id="boton6"></a><br>
+              </td>
+              <td style="width: 167.017px;"><a href="Noticias.html"><img src="../Botones/Noticias1.png"
+                    alt="" title="noticias" id="boton7"></a><br>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div><br>
+      </div>
+      <div>
+        <h3>Calor y Temperatura</h3>
+        <img src="file:///C:/Users/RUBEN/Documents/Maestria%203er%20semestre/Dise%C3%B1o%20Web/Semana%2015/Sitio%20Web%20LVF/Principal/Imagenes/calor.png"
+          alt="" title="calor">
+        <p>Empíricamente sabemos que si ponemos en contacto dos cuerpos que
+          tienen diferente temperatura, gradualmente la temperatura del cuerpo
+          más caliente va disminuyendo, mientras que la del menos caliente va
+          aumentando hasta que alcanzan ambos la misma temperatura. Este
+          fenómeno se debe a que al poner en contacto dos cuerpos de diferente
+          temperatura, se producen choques moleculares y es más probable que se
+          transfi era energía de las moléculas del cuerpo más caliente al menos
+          caliente. El resultado de los choques moleculares es una transferencia
+          de energía neta del cuerpo de mayor temperatura al de menor
+          temperatura. </p>
+        <h3>Calor</h3>
+        <p>El calor es la energía transferida de un cuerpo a otro a consecuencia
+          de la diferencia de temperatura entre ellos. A este tipo de energía
+          también se le llama energía calorífica.</p>
+      </div>
+    </div>
+  </body>
+</html>
